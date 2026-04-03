@@ -1,4 +1,4 @@
-# 🛒 Next Cart – 360° BI Dashboard
+# 🛒 Next Cart – 360° Business Intelligence Dashboard
 
 ## 📌 Project Overview
 
@@ -68,7 +68,7 @@ The dashboard is built using **advanced Excel functionalities**, including:
 ![HR Dashboard](https://github.com/osmanwafie/360-Business-Intelligence-Dashboard/blob/f838f5b448ca685b2561e02276addadaf7db4fd8/Imges/HR%20Dashboard.png )
 
 ### 🔹 Inventory Dashboard
-![Inventory Dashboard](screenshots/inventory_dashboard.png](https://github.com/osmanwafie/360-Business-Intelligence-Dashboard/blob/f838f5b448ca685b2561e02276addadaf7db4fd8/Imges/Inventory%20Dashboard.png )
+![Inventory Dashboard](https://github.com/osmanwafie/360-Business-Intelligence-Dashboard/blob/f838f5b448ca685b2561e02276addadaf7db4fd8/Imges/Inventory%20Dashboard.png )
 
 ---
 
@@ -85,20 +85,6 @@ The dashboard is built using **advanced Excel functionalities**, including:
 | Sales Resources | ⚙️ Pivot Sheet | Aggregated pivot data for Sales Dashboard |
 | Employee Resources | ⚙️ Pivot Sheet | Aggregated pivot data for HR Dashboard |
 | Inventory Resource | ⚙️ Pivot Sheet | Aggregated pivot data for Inventory Dashboard |
-
----
-
-## 🚀 How to Use the Dashboard
-
-1️⃣ Download and open **Main_File.xlsx** in Microsoft Excel (2016 or later recommended)
-
-2️⃣ Navigate between dashboards using the **sidebar icons** (Sales / HR / Inventory)
-
-3️⃣ Use the **slicer buttons** at the top of each dashboard to filter by department, region, category, payment method, etc.
-
-4️⃣ Hover over charts for **data labels and tooltips**
-
-5️⃣ Explore the raw data sheets (**Sales Data, Employee Data, Inventory Data**) for full record-level detail
 
 ---
 
@@ -129,8 +115,8 @@ The dashboard is built using **advanced Excel functionalities**, including:
 
 ## 📩 Contact & Connect
 
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-📧 **Email:** your@email.com
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/osmanwafie/)  
+📧 **Email:** osmanwafie888@email.com
 
 ---
 
