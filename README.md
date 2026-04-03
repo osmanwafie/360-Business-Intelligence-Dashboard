@@ -68,7 +68,7 @@ The dashboard is built using **advanced Excel functionalities**, including:
 ![HR Dashboard](https://github.com/osmanwafie/360-Business-Intelligence-Dashboard/blob/f838f5b448ca685b2561e02276addadaf7db4fd8/Imges/HR%20Dashboard.png )
 
 ### 🔹 Inventory Dashboard
-![Inventory Dashboard]([screenshots/inventory_dashboard.png](https://github.com/osmanwafie/360-Business-Intelligence-Dashboard/blob/f838f5b448ca685b2561e02276addadaf7db4fd8/Imges/Inventory%20Dashboard.png))
+![Inventory Dashboard](screenshots/inventory_dashboard.png](https://github.com/osmanwafie/360-Business-Intelligence-Dashboard/blob/f838f5b448ca685b2561e02276addadaf7db4fd8/Imges/Inventory%20Dashboard.png )
 
 ---
 
