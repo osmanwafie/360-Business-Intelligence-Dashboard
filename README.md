@@ -107,15 +107,9 @@ The dashboard is built using **advanced Excel functionalities**, including:
 
 ---
 
-## 🔗 Live Preview
-
-![Sales Dashboard](https://github.com/osmanwafie/360-Business-Intelligence-Dashboard/blob/26a7862e26df22d15b1895e2821d64ddf3225e1e/Imges/Dashboard%20Video.mp4)
-
----
-
 ## 📩 Contact & Connect
 
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/osmanwafie/)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/osmanwafie/]   
 📧 **Email:** osmanwafie888@email.com
 
 ---
