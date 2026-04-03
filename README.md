@@ -109,7 +109,7 @@ The dashboard is built using **advanced Excel functionalities**, including:
 
 ## 📩 Contact & Connect
 
-🔗 **LinkedIn:** [https://www.linkedin.com/in/osmanwafie/]   
+🔗 **LinkedIn:** [Osman Wafie](https://www.linkedin.com/in/osmanwafie/)    
 📧 **Email:** osmanwafie888@email.com
 
 ---
