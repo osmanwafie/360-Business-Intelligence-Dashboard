@@ -109,7 +109,7 @@ The dashboard is built using **advanced Excel functionalities**, including:
 
 ## 🔗 Live Preview
 
-> 📎 *Add your live file link here if hosted on OneDrive or Google Drive*
+![Sales Dashboard](https://github.com/osmanwafie/360-Business-Intelligence-Dashboard/blob/26a7862e26df22d15b1895e2821d64ddf3225e1e/Imges/Dashboard%20Video.mp4)
 
 ---
 
